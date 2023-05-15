@@ -1,0 +1,15 @@
+C:\Alejo\Programacion\C#\Programacion III\bin\Debug\net6.0\AplicacionMatematica.exe
+C:\Alejo\Programacion\C#\Programacion III\bin\Debug\net6.0\AplicacionMatematica.deps.json
+C:\Alejo\Programacion\C#\Programacion III\bin\Debug\net6.0\AplicacionMatematica.runtimeconfig.json
+C:\Alejo\Programacion\C#\Programacion III\bin\Debug\net6.0\AplicacionMatematica.dll
+C:\Alejo\Programacion\C#\Programacion III\bin\Debug\net6.0\AplicacionMatematica.pdb
+C:\Alejo\Programacion\C#\Programacion III\obj\Debug\net6.0\AplicacionMatematica.csproj.AssemblyReference.cache
+C:\Alejo\Programacion\C#\Programacion III\obj\Debug\net6.0\AplicacionMatematica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alejo\Programacion\C#\Programacion III\obj\Debug\net6.0\AplicacionMatematica.AssemblyInfoInputs.cache
+C:\Alejo\Programacion\C#\Programacion III\obj\Debug\net6.0\AplicacionMatematica.AssemblyInfo.cs
+C:\Alejo\Programacion\C#\Programacion III\obj\Debug\net6.0\AplicacionMatematica.csproj.CoreCompileInputs.cache
+C:\Alejo\Programacion\C#\Programacion III\obj\Debug\net6.0\AplicacionMatematica.dll
+C:\Alejo\Programacion\C#\Programacion III\obj\Debug\net6.0\refint\AplicacionMatematica.dll
+C:\Alejo\Programacion\C#\Programacion III\obj\Debug\net6.0\AplicacionMatematica.pdb
+C:\Alejo\Programacion\C#\Programacion III\obj\Debug\net6.0\AplicacionMatematica.genruntimeconfig.cache
+C:\Alejo\Programacion\C#\Programacion III\obj\Debug\net6.0\ref\AplicacionMatematica.dll

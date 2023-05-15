@@ -1,0 +1,15 @@
+C:\Alejo\Programacion\C#\Programacion III\bin\Debug\net6.0\Programacion III.exe
+C:\Alejo\Programacion\C#\Programacion III\bin\Debug\net6.0\Programacion III.deps.json
+C:\Alejo\Programacion\C#\Programacion III\bin\Debug\net6.0\Programacion III.runtimeconfig.json
+C:\Alejo\Programacion\C#\Programacion III\bin\Debug\net6.0\Programacion III.dll
+C:\Alejo\Programacion\C#\Programacion III\bin\Debug\net6.0\Programacion III.pdb
+C:\Alejo\Programacion\C#\Programacion III\obj\Debug\net6.0\Programacion III.csproj.AssemblyReference.cache
+C:\Alejo\Programacion\C#\Programacion III\obj\Debug\net6.0\Programacion III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alejo\Programacion\C#\Programacion III\obj\Debug\net6.0\Programacion III.AssemblyInfoInputs.cache
+C:\Alejo\Programacion\C#\Programacion III\obj\Debug\net6.0\Programacion III.AssemblyInfo.cs
+C:\Alejo\Programacion\C#\Programacion III\obj\Debug\net6.0\Programacion III.csproj.CoreCompileInputs.cache
+C:\Alejo\Programacion\C#\Programacion III\obj\Debug\net6.0\Programacion III.dll
+C:\Alejo\Programacion\C#\Programacion III\obj\Debug\net6.0\refint\Programacion III.dll
+C:\Alejo\Programacion\C#\Programacion III\obj\Debug\net6.0\Programacion III.pdb
+C:\Alejo\Programacion\C#\Programacion III\obj\Debug\net6.0\Programacion III.genruntimeconfig.cache
+C:\Alejo\Programacion\C#\Programacion III\obj\Debug\net6.0\ref\Programacion III.dll

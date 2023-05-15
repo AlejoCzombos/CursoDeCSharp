@@ -1,0 +1,15 @@
+C:\Alejo\Programacion\Programacion III\EjercicioInterfaces\obj\Debug\net6.0\EjercicioInterfaces.csproj.AssemblyReference.cache
+C:\Alejo\Programacion\Programacion III\EjercicioInterfaces\obj\Debug\net6.0\EjercicioInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alejo\Programacion\Programacion III\EjercicioInterfaces\obj\Debug\net6.0\EjercicioInterfaces.AssemblyInfoInputs.cache
+C:\Alejo\Programacion\Programacion III\EjercicioInterfaces\obj\Debug\net6.0\EjercicioInterfaces.AssemblyInfo.cs
+C:\Alejo\Programacion\Programacion III\EjercicioInterfaces\obj\Debug\net6.0\EjercicioInterfaces.csproj.CoreCompileInputs.cache
+C:\Alejo\Programacion\Programacion III\EjercicioInterfaces\bin\Debug\net6.0\EjercicioInterfaces.exe
+C:\Alejo\Programacion\Programacion III\EjercicioInterfaces\bin\Debug\net6.0\EjercicioInterfaces.deps.json
+C:\Alejo\Programacion\Programacion III\EjercicioInterfaces\bin\Debug\net6.0\EjercicioInterfaces.runtimeconfig.json
+C:\Alejo\Programacion\Programacion III\EjercicioInterfaces\bin\Debug\net6.0\EjercicioInterfaces.dll
+C:\Alejo\Programacion\Programacion III\EjercicioInterfaces\bin\Debug\net6.0\EjercicioInterfaces.pdb
+C:\Alejo\Programacion\Programacion III\EjercicioInterfaces\obj\Debug\net6.0\EjercicioInterfaces.dll
+C:\Alejo\Programacion\Programacion III\EjercicioInterfaces\obj\Debug\net6.0\refint\EjercicioInterfaces.dll
+C:\Alejo\Programacion\Programacion III\EjercicioInterfaces\obj\Debug\net6.0\EjercicioInterfaces.pdb
+C:\Alejo\Programacion\Programacion III\EjercicioInterfaces\obj\Debug\net6.0\EjercicioInterfaces.genruntimeconfig.cache
+C:\Alejo\Programacion\Programacion III\EjercicioInterfaces\obj\Debug\net6.0\ref\EjercicioInterfaces.dll

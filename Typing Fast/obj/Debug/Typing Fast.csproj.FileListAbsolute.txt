@@ -1,0 +1,51 @@
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\Typing Fast.exe.config
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\Typing Fast.exe
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\Typing Fast.pdb
+C:\Alejo\Programacion\C#\Typing Fast\obj\Debug\Typing Fast.csproj.AssemblyReference.cache
+C:\Alejo\Programacion\C#\Typing Fast\obj\Debug\Typing Fast.csproj.SuggestedBindingRedirects.cache
+C:\Alejo\Programacion\C#\Typing Fast\obj\Debug\Typing_Fast.Form1.resources
+C:\Alejo\Programacion\C#\Typing Fast\obj\Debug\Typing_Fast.Properties.Resources.resources
+C:\Alejo\Programacion\C#\Typing Fast\obj\Debug\Typing Fast.csproj.GenerateResource.cache
+C:\Alejo\Programacion\C#\Typing Fast\obj\Debug\Typing Fast.csproj.CoreCompileInputs.cache
+C:\Alejo\Programacion\C#\Typing Fast\obj\Debug\Typing Fast.exe
+C:\Alejo\Programacion\C#\Typing Fast\obj\Debug\Typing Fast.pdb
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\EntityFramework.dll
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\EntityFramework.SqlServer.dll
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\System.Data.SQLite.dll
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\EntityFramework.xml
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\EntityFramework.SqlServer.xml
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\System.Data.SQLite.xml
+C:\Alejo\Programacion\C#\Typing Fast\obj\Debug\Typing Fast.csproj.CopyComplete
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\x86\sqlite3.dll
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\x64\sqlite3.dll
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\BouncyCastle.Crypto.dll
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\Google.Protobuf.dll
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\K4os.Compression.LZ4.dll
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\K4os.Hash.xxHash.dll
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\MySql.Data.dll
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\MySqlConnector.dll
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\System.Buffers.dll
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\System.IO.Pipelines.dll
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\System.Memory.dll
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\System.Numerics.Vectors.dll
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\BouncyCastle.Crypto.xml
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\Google.Protobuf.pdb
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\Google.Protobuf.xml
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\K4os.Compression.LZ4.xml
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\K4os.Hash.xxHash.xml
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\MySql.Data.xml
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\MySqlConnector.xml
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\System.Buffers.xml
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\System.IO.Pipelines.xml
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\System.Memory.xml
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\System.Numerics.Vectors.xml
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Alejo\Programacion\C#\Typing Fast\bin\Debug\System.Threading.Tasks.Extensions.xml

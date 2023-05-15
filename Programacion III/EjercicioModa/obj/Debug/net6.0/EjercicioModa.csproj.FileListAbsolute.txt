@@ -1,0 +1,15 @@
+C:\Alejo\Programacion\C#\EjercicioModa\obj\Debug\net6.0\EjercicioModa.csproj.AssemblyReference.cache
+C:\Alejo\Programacion\C#\EjercicioModa\obj\Debug\net6.0\EjercicioModa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alejo\Programacion\C#\EjercicioModa\obj\Debug\net6.0\EjercicioModa.AssemblyInfoInputs.cache
+C:\Alejo\Programacion\C#\EjercicioModa\obj\Debug\net6.0\EjercicioModa.AssemblyInfo.cs
+C:\Alejo\Programacion\C#\EjercicioModa\obj\Debug\net6.0\EjercicioModa.csproj.CoreCompileInputs.cache
+C:\Alejo\Programacion\C#\EjercicioModa\bin\Debug\net6.0\EjercicioModa.exe
+C:\Alejo\Programacion\C#\EjercicioModa\bin\Debug\net6.0\EjercicioModa.deps.json
+C:\Alejo\Programacion\C#\EjercicioModa\bin\Debug\net6.0\EjercicioModa.runtimeconfig.json
+C:\Alejo\Programacion\C#\EjercicioModa\bin\Debug\net6.0\EjercicioModa.dll
+C:\Alejo\Programacion\C#\EjercicioModa\bin\Debug\net6.0\EjercicioModa.pdb
+C:\Alejo\Programacion\C#\EjercicioModa\obj\Debug\net6.0\EjercicioModa.dll
+C:\Alejo\Programacion\C#\EjercicioModa\obj\Debug\net6.0\refint\EjercicioModa.dll
+C:\Alejo\Programacion\C#\EjercicioModa\obj\Debug\net6.0\EjercicioModa.pdb
+C:\Alejo\Programacion\C#\EjercicioModa\obj\Debug\net6.0\EjercicioModa.genruntimeconfig.cache
+C:\Alejo\Programacion\C#\EjercicioModa\obj\Debug\net6.0\ref\EjercicioModa.dll

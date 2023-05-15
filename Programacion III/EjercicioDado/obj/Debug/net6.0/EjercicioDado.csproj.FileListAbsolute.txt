@@ -1,0 +1,15 @@
+C:\Alejo\Programacion\Programacion III\EjercicioDado\bin\Debug\net6.0\EjercicioDado.exe
+C:\Alejo\Programacion\Programacion III\EjercicioDado\bin\Debug\net6.0\EjercicioDado.deps.json
+C:\Alejo\Programacion\Programacion III\EjercicioDado\bin\Debug\net6.0\EjercicioDado.runtimeconfig.json
+C:\Alejo\Programacion\Programacion III\EjercicioDado\bin\Debug\net6.0\EjercicioDado.dll
+C:\Alejo\Programacion\Programacion III\EjercicioDado\bin\Debug\net6.0\EjercicioDado.pdb
+C:\Alejo\Programacion\Programacion III\EjercicioDado\obj\Debug\net6.0\EjercicioDado.csproj.AssemblyReference.cache
+C:\Alejo\Programacion\Programacion III\EjercicioDado\obj\Debug\net6.0\EjercicioDado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alejo\Programacion\Programacion III\EjercicioDado\obj\Debug\net6.0\EjercicioDado.AssemblyInfoInputs.cache
+C:\Alejo\Programacion\Programacion III\EjercicioDado\obj\Debug\net6.0\EjercicioDado.AssemblyInfo.cs
+C:\Alejo\Programacion\Programacion III\EjercicioDado\obj\Debug\net6.0\EjercicioDado.csproj.CoreCompileInputs.cache
+C:\Alejo\Programacion\Programacion III\EjercicioDado\obj\Debug\net6.0\EjercicioDado.dll
+C:\Alejo\Programacion\Programacion III\EjercicioDado\obj\Debug\net6.0\refint\EjercicioDado.dll
+C:\Alejo\Programacion\Programacion III\EjercicioDado\obj\Debug\net6.0\EjercicioDado.pdb
+C:\Alejo\Programacion\Programacion III\EjercicioDado\obj\Debug\net6.0\EjercicioDado.genruntimeconfig.cache
+C:\Alejo\Programacion\Programacion III\EjercicioDado\obj\Debug\net6.0\ref\EjercicioDado.dll

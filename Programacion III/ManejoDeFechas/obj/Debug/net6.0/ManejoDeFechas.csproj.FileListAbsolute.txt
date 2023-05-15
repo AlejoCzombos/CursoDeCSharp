@@ -1,0 +1,15 @@
+C:\Alejo\Programacion\C#\ManejoDeFechas\bin\Debug\net6.0\ManejoDeFechas.exe
+C:\Alejo\Programacion\C#\ManejoDeFechas\bin\Debug\net6.0\ManejoDeFechas.deps.json
+C:\Alejo\Programacion\C#\ManejoDeFechas\bin\Debug\net6.0\ManejoDeFechas.runtimeconfig.json
+C:\Alejo\Programacion\C#\ManejoDeFechas\bin\Debug\net6.0\ManejoDeFechas.dll
+C:\Alejo\Programacion\C#\ManejoDeFechas\bin\Debug\net6.0\ManejoDeFechas.pdb
+C:\Alejo\Programacion\C#\ManejoDeFechas\obj\Debug\net6.0\ManejoDeFechas.csproj.AssemblyReference.cache
+C:\Alejo\Programacion\C#\ManejoDeFechas\obj\Debug\net6.0\ManejoDeFechas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alejo\Programacion\C#\ManejoDeFechas\obj\Debug\net6.0\ManejoDeFechas.AssemblyInfoInputs.cache
+C:\Alejo\Programacion\C#\ManejoDeFechas\obj\Debug\net6.0\ManejoDeFechas.AssemblyInfo.cs
+C:\Alejo\Programacion\C#\ManejoDeFechas\obj\Debug\net6.0\ManejoDeFechas.csproj.CoreCompileInputs.cache
+C:\Alejo\Programacion\C#\ManejoDeFechas\obj\Debug\net6.0\ManejoDeFechas.dll
+C:\Alejo\Programacion\C#\ManejoDeFechas\obj\Debug\net6.0\refint\ManejoDeFechas.dll
+C:\Alejo\Programacion\C#\ManejoDeFechas\obj\Debug\net6.0\ManejoDeFechas.pdb
+C:\Alejo\Programacion\C#\ManejoDeFechas\obj\Debug\net6.0\ManejoDeFechas.genruntimeconfig.cache
+C:\Alejo\Programacion\C#\ManejoDeFechas\obj\Debug\net6.0\ref\ManejoDeFechas.dll
