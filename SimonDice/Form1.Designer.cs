@@ -50,13 +50,12 @@
             this.tableLayoutPanel1.Controls.Add(this.Amarillo, 0, 1);
             this.tableLayoutPanel1.Controls.Add(this.Verde, 0, 0);
             this.tableLayoutPanel1.Controls.Add(this.Rojo, 1, 0);
-            this.tableLayoutPanel1.Location = new System.Drawing.Point(66, 89);
-            this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tableLayoutPanel1.Location = new System.Drawing.Point(75, 119);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 2;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(586, 488);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(670, 652);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // Azul
@@ -68,10 +67,9 @@
             this.Azul.FlatAppearance.BorderSize = 20;
             this.Azul.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.Azul.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.Azul.Location = new System.Drawing.Point(296, 246);
-            this.Azul.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.Azul.Location = new System.Drawing.Point(338, 329);
             this.Azul.Name = "Azul";
-            this.Azul.Size = new System.Drawing.Size(287, 240);
+            this.Azul.Size = new System.Drawing.Size(329, 320);
             this.Azul.TabIndex = 3;
             this.Azul.UseVisualStyleBackColor = false;
             this.Azul.Click += new System.EventHandler(this.OnClickAzul);
@@ -83,10 +81,9 @@
             this.Amarillo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.Amarillo.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Amarillo.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.Amarillo.Location = new System.Drawing.Point(3, 246);
-            this.Amarillo.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.Amarillo.Location = new System.Drawing.Point(3, 329);
             this.Amarillo.Name = "Amarillo";
-            this.Amarillo.Size = new System.Drawing.Size(287, 240);
+            this.Amarillo.Size = new System.Drawing.Size(329, 320);
             this.Amarillo.TabIndex = 2;
             this.Amarillo.UseVisualStyleBackColor = false;
             this.Amarillo.Click += new System.EventHandler(this.OnClickAmarillo);
@@ -102,10 +99,9 @@
             this.Verde.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Verde.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.Verde.FlatAppearance.BorderSize = 3;
-            this.Verde.Location = new System.Drawing.Point(3, 2);
-            this.Verde.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.Verde.Location = new System.Drawing.Point(3, 3);
             this.Verde.Name = "Verde";
-            this.Verde.Size = new System.Drawing.Size(287, 240);
+            this.Verde.Size = new System.Drawing.Size(329, 320);
             this.Verde.TabIndex = 1;
             this.Verde.UseVisualStyleBackColor = false;
             this.Verde.Click += new System.EventHandler(this.OnClickVerde);
@@ -117,10 +113,9 @@
             this.Rojo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(200)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.Rojo.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Rojo.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.Rojo.Location = new System.Drawing.Point(296, 2);
-            this.Rojo.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.Rojo.Location = new System.Drawing.Point(338, 3);
             this.Rojo.Name = "Rojo";
-            this.Rojo.Size = new System.Drawing.Size(287, 240);
+            this.Rojo.Size = new System.Drawing.Size(329, 320);
             this.Rojo.TabIndex = 0;
             this.Rojo.UseVisualStyleBackColor = false;
             this.Rojo.Click += new System.EventHandler(this.OnClickRojo);
@@ -133,9 +128,9 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label1.Font = new System.Drawing.Font("Pokemon Classic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label1.Location = new System.Drawing.Point(233, 9);
+            this.label1.Location = new System.Drawing.Point(266, 12);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(253, 57);
+            this.label1.Size = new System.Drawing.Size(354, 76);
             this.label1.TabIndex = 1;
             this.label1.Text = "Puntaje: 0";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -147,13 +142,12 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(726, 609);
+            this.ClientSize = new System.Drawing.Size(830, 812);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.MdiChildrenMinimizedAnchorBottom = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
