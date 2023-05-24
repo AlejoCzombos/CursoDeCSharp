@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Alejo\\Programacion\\C#\\Programacion III\\AplicacionMatematica.csproj",
+      "projectUniqueName": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\AplicacionMatematica.csproj",
       "projectName": "AplicacionMatematica",
-      "projectPath": "C:\\Alejo\\Programacion\\C#\\Programacion III\\AplicacionMatematica.csproj",
+      "projectPath": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\AplicacionMatematica.csproj",
       "packagesPath": "C:\\Users\\alejo\\.nuget\\packages\\",
-      "outputPath": "C:\\Alejo\\Programacion\\C#\\Programacion III\\obj\\",
+      "outputPath": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alejo\\AppData\\Roaming\\NuGet\\NuGet.Config",

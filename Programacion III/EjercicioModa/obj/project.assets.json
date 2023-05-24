@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Alejo\\Programacion\\C#\\Programacion III\\EjercicioModa\\EjercicioModa.csproj",
+      "projectUniqueName": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\EjercicioModa\\EjercicioModa.csproj",
       "projectName": "EjercicioModa",
-      "projectPath": "C:\\Alejo\\Programacion\\C#\\Programacion III\\EjercicioModa\\EjercicioModa.csproj",
+      "projectPath": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\EjercicioModa\\EjercicioModa.csproj",
       "packagesPath": "C:\\Users\\alejo\\.nuget\\packages\\",
-      "outputPath": "C:\\Alejo\\Programacion\\C#\\Programacion III\\EjercicioModa\\obj\\",
+      "outputPath": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\EjercicioModa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alejo\\AppData\\Roaming\\NuGet\\NuGet.Config",

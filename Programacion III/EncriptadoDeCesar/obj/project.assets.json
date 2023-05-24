@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Alejo\\Programacion\\C#\\Programacion III\\EncriptadoDeCesar\\EncriptadoDeCesar.csproj",
+      "projectUniqueName": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\EncriptadoDeCesar\\EncriptadoDeCesar.csproj",
       "projectName": "EncriptadoDeCesar",
-      "projectPath": "C:\\Alejo\\Programacion\\C#\\Programacion III\\EncriptadoDeCesar\\EncriptadoDeCesar.csproj",
+      "projectPath": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\EncriptadoDeCesar\\EncriptadoDeCesar.csproj",
       "packagesPath": "C:\\Users\\alejo\\.nuget\\packages\\",
-      "outputPath": "C:\\Alejo\\Programacion\\C#\\Programacion III\\EncriptadoDeCesar\\obj\\",
+      "outputPath": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\EncriptadoDeCesar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alejo\\AppData\\Roaming\\NuGet\\NuGet.Config",

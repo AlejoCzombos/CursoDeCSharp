@@ -1,0 +1,17 @@
+C:\Alejo\Programacion\C#\CursoDeCSharp\Calculadora\bin\Debug\net6.0-windows\Calculadora.exe
+C:\Alejo\Programacion\C#\CursoDeCSharp\Calculadora\bin\Debug\net6.0-windows\Calculadora.deps.json
+C:\Alejo\Programacion\C#\CursoDeCSharp\Calculadora\bin\Debug\net6.0-windows\Calculadora.runtimeconfig.json
+C:\Alejo\Programacion\C#\CursoDeCSharp\Calculadora\bin\Debug\net6.0-windows\Calculadora.dll
+C:\Alejo\Programacion\C#\CursoDeCSharp\Calculadora\bin\Debug\net6.0-windows\Calculadora.pdb
+C:\Alejo\Programacion\C#\CursoDeCSharp\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.AssemblyReference.cache
+C:\Alejo\Programacion\C#\CursoDeCSharp\Calculadora\obj\Debug\net6.0-windows\Calculadora.Form1.resources
+C:\Alejo\Programacion\C#\CursoDeCSharp\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Alejo\Programacion\C#\CursoDeCSharp\Calculadora\obj\Debug\net6.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alejo\Programacion\C#\CursoDeCSharp\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Alejo\Programacion\C#\CursoDeCSharp\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfo.cs
+C:\Alejo\Programacion\C#\CursoDeCSharp\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Alejo\Programacion\C#\CursoDeCSharp\Calculadora\obj\Debug\net6.0-windows\Calculadora.dll
+C:\Alejo\Programacion\C#\CursoDeCSharp\Calculadora\obj\Debug\net6.0-windows\refint\Calculadora.dll
+C:\Alejo\Programacion\C#\CursoDeCSharp\Calculadora\obj\Debug\net6.0-windows\Calculadora.pdb
+C:\Alejo\Programacion\C#\CursoDeCSharp\Calculadora\obj\Debug\net6.0-windows\Calculadora.genruntimeconfig.cache
+C:\Alejo\Programacion\C#\CursoDeCSharp\Calculadora\obj\Debug\net6.0-windows\ref\Calculadora.dll

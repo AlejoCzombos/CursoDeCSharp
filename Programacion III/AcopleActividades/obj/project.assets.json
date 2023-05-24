@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Alejo\\Programacion\\C#\\Programacion III\\AcopleActividades\\AcopleActividades.csproj",
+      "projectUniqueName": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\AcopleActividades\\AcopleActividades.csproj",
       "projectName": "AcopleActividades",
-      "projectPath": "C:\\Alejo\\Programacion\\C#\\Programacion III\\AcopleActividades\\AcopleActividades.csproj",
+      "projectPath": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\AcopleActividades\\AcopleActividades.csproj",
       "packagesPath": "C:\\Users\\alejo\\.nuget\\packages\\",
-      "outputPath": "C:\\Alejo\\Programacion\\C#\\Programacion III\\AcopleActividades\\obj\\",
+      "outputPath": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\AcopleActividades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alejo\\AppData\\Roaming\\NuGet\\NuGet.Config",

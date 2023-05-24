@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Alejo\\Programacion\\C#\\Programacion III\\ManejoDeFechas\\ManejoDeFechas.csproj": {}
+    "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\ManejoDeFechas\\ManejoDeFechas.csproj": {}
   },
   "projects": {
-    "C:\\Alejo\\Programacion\\C#\\Programacion III\\ManejoDeFechas\\ManejoDeFechas.csproj": {
+    "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\ManejoDeFechas\\ManejoDeFechas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Alejo\\Programacion\\C#\\Programacion III\\ManejoDeFechas\\ManejoDeFechas.csproj",
+        "projectUniqueName": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\ManejoDeFechas\\ManejoDeFechas.csproj",
         "projectName": "ManejoDeFechas",
-        "projectPath": "C:\\Alejo\\Programacion\\C#\\Programacion III\\ManejoDeFechas\\ManejoDeFechas.csproj",
+        "projectPath": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\ManejoDeFechas\\ManejoDeFechas.csproj",
         "packagesPath": "C:\\Users\\alejo\\.nuget\\packages\\",
-        "outputPath": "C:\\Alejo\\Programacion\\C#\\Programacion III\\ManejoDeFechas\\obj\\",
+        "outputPath": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\ManejoDeFechas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alejo\\AppData\\Roaming\\NuGet\\NuGet.Config",

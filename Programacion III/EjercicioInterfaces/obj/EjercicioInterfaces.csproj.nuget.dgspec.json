@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Alejo\\Programacion\\Programacion III\\EjercicioInterfaces\\EjercicioInterfaces.csproj": {}
+    "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\EjercicioInterfaces\\EjercicioInterfaces.csproj": {}
   },
   "projects": {
-    "C:\\Alejo\\Programacion\\Programacion III\\EjercicioInterfaces\\EjercicioInterfaces.csproj": {
+    "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\EjercicioInterfaces\\EjercicioInterfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Alejo\\Programacion\\Programacion III\\EjercicioInterfaces\\EjercicioInterfaces.csproj",
+        "projectUniqueName": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\EjercicioInterfaces\\EjercicioInterfaces.csproj",
         "projectName": "EjercicioInterfaces",
-        "projectPath": "C:\\Alejo\\Programacion\\Programacion III\\EjercicioInterfaces\\EjercicioInterfaces.csproj",
+        "projectPath": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\EjercicioInterfaces\\EjercicioInterfaces.csproj",
         "packagesPath": "C:\\Users\\alejo\\.nuget\\packages\\",
-        "outputPath": "C:\\Alejo\\Programacion\\Programacion III\\EjercicioInterfaces\\obj\\",
+        "outputPath": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\EjercicioInterfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alejo\\AppData\\Roaming\\NuGet\\NuGet.Config",

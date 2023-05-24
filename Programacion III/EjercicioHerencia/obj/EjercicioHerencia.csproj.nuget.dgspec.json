@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Alejo\\Programacion\\Programacion III\\EjercicioHerencia\\EjercicioHerencia.csproj": {}
+    "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\EjercicioHerencia\\EjercicioHerencia.csproj": {}
   },
   "projects": {
-    "C:\\Alejo\\Programacion\\Programacion III\\EjercicioHerencia\\EjercicioHerencia.csproj": {
+    "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\EjercicioHerencia\\EjercicioHerencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Alejo\\Programacion\\Programacion III\\EjercicioHerencia\\EjercicioHerencia.csproj",
+        "projectUniqueName": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\EjercicioHerencia\\EjercicioHerencia.csproj",
         "projectName": "EjercicioHerencia",
-        "projectPath": "C:\\Alejo\\Programacion\\Programacion III\\EjercicioHerencia\\EjercicioHerencia.csproj",
+        "projectPath": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\EjercicioHerencia\\EjercicioHerencia.csproj",
         "packagesPath": "C:\\Users\\alejo\\.nuget\\packages\\",
-        "outputPath": "C:\\Alejo\\Programacion\\Programacion III\\EjercicioHerencia\\obj\\",
+        "outputPath": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\EjercicioHerencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
