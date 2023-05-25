@@ -9,6 +9,9 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SQLite;
 using System.Threading;
+using System.IO;
+using System.Reflection;
+using System.Diagnostics;
 
 namespace Typing_Fast
 {
@@ -16,10 +19,11 @@ namespace Typing_Fast
     {
         String frase;
         int errores;
-        int aciertos;
+        int aciertos = 0;
         int tiempo = 0;
         int indiceActual;
         SQLiteConnection conexion;
+        private Stopwatch stopwatch;
         public Form1()
         {
             InitializeComponent();
@@ -28,15 +32,30 @@ namespace Typing_Fast
             textBoxInput.Focus();
             timer1.Interval = 10;
             timer1.Enabled = true;
+            stopwatch = new Stopwatch();
+            stopwatch.Start();
+            textBoxInput.SelectionAlignment = HorizontalAlignment.Center;
         }
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            tiempo++;
-            labelTiempo.Text = $"{tiempo / 100} {tiempo}";
+            TimeSpan tiempoTranscurrido = stopwatch.Elapsed;
+            string tiempoFormateado;
+            if(tiempoTranscurrido.Minutes > 0)
+            {
+                tiempoFormateado = $"{tiempoTranscurrido.Minutes} : {tiempoTranscurrido.Seconds}.{tiempoTranscurrido.Milliseconds.ToString("000")}";
+            }
+            else
+            {
+                tiempoFormateado = $"{tiempoTranscurrido.Seconds}.{tiempoTranscurrido.Milliseconds.ToString("000")}";
+            }
+
+            labelTiempo.Text = tiempoFormateado;
         }
         private void inputCheck(object sender, KeyPressEventArgs e)
         {
+            if (indiceActual < 0) indiceActual = 0;
+
             if (e.KeyChar == (char)Keys.Back)
             {
                 indiceActual--;
@@ -68,8 +87,10 @@ namespace Typing_Fast
         }
         private void ConeccionDB()
         {
-            string stringConexion = "Data Source=C:/Alejo/Programacion/C#/Palabras.db;";
-            conexion = new SQLiteConnection(stringConexion);
+            string nombreBaseDatos = "Palabras.db";
+            string rutaBaseDatos = Path.Combine(Path.GetDirectoryName(Assembly.GetEntryAssembly().Location), nombreBaseDatos);
+            string connectionString = $"Data Source={rutaBaseDatos};Version=3;";
+            conexion = new SQLiteConnection(connectionString);
             conexion.Open();
         }
 
@@ -77,7 +98,17 @@ namespace Typing_Fast
         {
             string textoEscrito = textBoxInput.Text;
 
-            if (frase.Equals(textoEscrito)) CargarPalabra();
+            if (frase.Equals(textoEscrito))
+            {
+                aciertos++;
+                labelAciertos.Text = aciertos.ToString();
+                CargarPalabra();
+            }
+        }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
