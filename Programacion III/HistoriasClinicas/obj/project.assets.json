@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\HistoriasClinicas\\HistoriasClinicas.csproj",
+      "projectUniqueName": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\HistoriasClinicas\\HistoriasClinicas.csproj",
       "projectName": "HistoriasClinicas",
-      "projectPath": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\HistoriasClinicas\\HistoriasClinicas.csproj",
+      "projectPath": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\HistoriasClinicas\\HistoriasClinicas.csproj",
       "packagesPath": "C:\\Users\\alejo\\.nuget\\packages\\",
-      "outputPath": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\HistoriasClinicas\\obj\\",
+      "outputPath": "C:\\Alejo\\Programacion\\C#\\CursoDeCSharp\\Programacion III\\HistoriasClinicas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alejo\\AppData\\Roaming\\NuGet\\NuGet.Config",

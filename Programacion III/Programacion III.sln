@@ -31,6 +31,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aplicaciones Visuales", "Ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Typing Fast", "Typing Fast\Typing Fast.csproj", "{1291FD34-EC8D-4E68-82A0-326CE9E76CC6}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HistoriasClinicas", "HistoriasClinicas\HistoriasClinicas.csproj", "{BFB46C5B-17F1-4D12-8117-2EA60C3D6650}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,10 @@ Global
 		{1291FD34-EC8D-4E68-82A0-326CE9E76CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1291FD34-EC8D-4E68-82A0-326CE9E76CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1291FD34-EC8D-4E68-82A0-326CE9E76CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB46C5B-17F1-4D12-8117-2EA60C3D6650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB46C5B-17F1-4D12-8117-2EA60C3D6650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB46C5B-17F1-4D12-8117-2EA60C3D6650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB46C5B-17F1-4D12-8117-2EA60C3D6650}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -102,6 +108,7 @@ Global
 		{7F89D9FD-9F0C-45E6-96AC-1E375E3B65F8} = {D4935A36-458E-458B-BA5B-E4D45E71505B}
 		{B7A83D80-16F4-447E-9406-FCEB4A141082} = {D4935A36-458E-458B-BA5B-E4D45E71505B}
 		{1291FD34-EC8D-4E68-82A0-326CE9E76CC6} = {D4935A36-458E-458B-BA5B-E4D45E71505B}
+		{BFB46C5B-17F1-4D12-8117-2EA60C3D6650} = {D4935A36-458E-458B-BA5B-E4D45E71505B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E920AB47-8631-4454-9DAC-9CECAF3EC62F}

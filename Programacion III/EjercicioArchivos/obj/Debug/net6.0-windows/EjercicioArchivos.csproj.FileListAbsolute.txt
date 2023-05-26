@@ -15,3 +15,20 @@ C:\Alejo\Programacion\C#\CursoDeCSharp\EjercicioArchivos\obj\Debug\net6.0-window
 C:\Alejo\Programacion\C#\CursoDeCSharp\EjercicioArchivos\obj\Debug\net6.0-windows\EjercicioArchivos.pdb
 C:\Alejo\Programacion\C#\CursoDeCSharp\EjercicioArchivos\obj\Debug\net6.0-windows\EjercicioArchivos.genruntimeconfig.cache
 C:\Alejo\Programacion\C#\CursoDeCSharp\EjercicioArchivos\obj\Debug\net6.0-windows\ref\EjercicioArchivos.dll
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\EjercicioArchivos\bin\Debug\net6.0-windows\EjercicioArchivos.exe
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\EjercicioArchivos\bin\Debug\net6.0-windows\EjercicioArchivos.deps.json
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\EjercicioArchivos\bin\Debug\net6.0-windows\EjercicioArchivos.runtimeconfig.json
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\EjercicioArchivos\bin\Debug\net6.0-windows\EjercicioArchivos.dll
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\EjercicioArchivos\bin\Debug\net6.0-windows\EjercicioArchivos.pdb
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\EjercicioArchivos\obj\Debug\net6.0-windows\EjercicioArchivos.csproj.AssemblyReference.cache
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\EjercicioArchivos\obj\Debug\net6.0-windows\EjercicioArchivos.Form1.resources
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\EjercicioArchivos\obj\Debug\net6.0-windows\EjercicioArchivos.csproj.GenerateResource.cache
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\EjercicioArchivos\obj\Debug\net6.0-windows\EjercicioArchivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\EjercicioArchivos\obj\Debug\net6.0-windows\EjercicioArchivos.AssemblyInfoInputs.cache
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\EjercicioArchivos\obj\Debug\net6.0-windows\EjercicioArchivos.AssemblyInfo.cs
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\EjercicioArchivos\obj\Debug\net6.0-windows\EjercicioArchivos.csproj.CoreCompileInputs.cache
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\EjercicioArchivos\obj\Debug\net6.0-windows\EjercicioArchivos.dll
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\EjercicioArchivos\obj\Debug\net6.0-windows\refint\EjercicioArchivos.dll
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\EjercicioArchivos\obj\Debug\net6.0-windows\EjercicioArchivos.pdb
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\EjercicioArchivos\obj\Debug\net6.0-windows\EjercicioArchivos.genruntimeconfig.cache
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\EjercicioArchivos\obj\Debug\net6.0-windows\ref\EjercicioArchivos.dll
