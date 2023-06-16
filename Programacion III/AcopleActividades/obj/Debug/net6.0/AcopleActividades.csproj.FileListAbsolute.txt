@@ -13,3 +13,11 @@ C:\Alejo\Programacion\C#\Programacion III\AcopleActividades\obj\Debug\net6.0\ref
 C:\Alejo\Programacion\C#\Programacion III\AcopleActividades\obj\Debug\net6.0\AcopleActividades.pdb
 C:\Alejo\Programacion\C#\Programacion III\AcopleActividades\obj\Debug\net6.0\AcopleActividades.genruntimeconfig.cache
 C:\Alejo\Programacion\C#\Programacion III\AcopleActividades\obj\Debug\net6.0\ref\AcopleActividades.dll
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\AcopleActividades\obj\Debug\net6.0\AcopleActividades.csproj.AssemblyReference.cache
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\AcopleActividades\obj\Debug\net6.0\AcopleActividades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\AcopleActividades\obj\Debug\net6.0\AcopleActividades.AssemblyInfoInputs.cache
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\AcopleActividades\obj\Debug\net6.0\AcopleActividades.AssemblyInfo.cs
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\AcopleActividades\obj\Debug\net6.0\AcopleActividades.csproj.CoreCompileInputs.cache
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\AcopleActividades\obj\Debug\net6.0\AcopleActividades.dll
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\AcopleActividades\obj\Debug\net6.0\refint\AcopleActividades.dll
+C:\Alejo\Programacion\C#\CursoDeCSharp\Programacion III\AcopleActividades\obj\Debug\net6.0\AcopleActividades.pdb
