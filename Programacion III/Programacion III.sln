@@ -33,7 +33,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Typing Fast", "Typing Fast\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HistoriasClinicas", "HistoriasClinicas\HistoriasClinicas.csproj", "{BFB46C5B-17F1-4D12-8117-2EA60C3D6650}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioBasesDeDatos", "EjercicioBasesDeDatos\EjercicioBasesDeDatos.csproj", "{D048FF28-0A1F-44D8-B2A0-A19CB51F18F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjercicioBasesDeDatos", "EjercicioBasesDeDatos\EjercicioBasesDeDatos.csproj", "{D048FF28-0A1F-44D8-B2A0-A19CB51F18F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSetsYDataTables", "..\DataSetsYDataTables\DataSetsYDataTables.csproj", "{AB5BE62F-55C7-4AA9-A13C-654957EDD279}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -97,6 +99,10 @@ Global
 		{D048FF28-0A1F-44D8-B2A0-A19CB51F18F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D048FF28-0A1F-44D8-B2A0-A19CB51F18F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D048FF28-0A1F-44D8-B2A0-A19CB51F18F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB5BE62F-55C7-4AA9-A13C-654957EDD279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB5BE62F-55C7-4AA9-A13C-654957EDD279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB5BE62F-55C7-4AA9-A13C-654957EDD279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB5BE62F-55C7-4AA9-A13C-654957EDD279}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -116,6 +122,7 @@ Global
 		{1291FD34-EC8D-4E68-82A0-326CE9E76CC6} = {D4935A36-458E-458B-BA5B-E4D45E71505B}
 		{BFB46C5B-17F1-4D12-8117-2EA60C3D6650} = {D4935A36-458E-458B-BA5B-E4D45E71505B}
 		{D048FF28-0A1F-44D8-B2A0-A19CB51F18F6} = {D4935A36-458E-458B-BA5B-E4D45E71505B}
+		{AB5BE62F-55C7-4AA9-A13C-654957EDD279} = {44779CA4-6D84-42FD-94AA-9959F8DAA175}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E920AB47-8631-4454-9DAC-9CECAF3EC62F}

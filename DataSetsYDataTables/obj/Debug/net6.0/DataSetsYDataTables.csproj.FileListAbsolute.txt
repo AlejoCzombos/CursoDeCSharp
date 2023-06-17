@@ -1,0 +1,15 @@
+C:\Alejo\Programacion\C#\CursoDeCSharp\DataSetsYDataTables\bin\Debug\net6.0\DataSetsYDataTables.exe
+C:\Alejo\Programacion\C#\CursoDeCSharp\DataSetsYDataTables\bin\Debug\net6.0\DataSetsYDataTables.deps.json
+C:\Alejo\Programacion\C#\CursoDeCSharp\DataSetsYDataTables\bin\Debug\net6.0\DataSetsYDataTables.runtimeconfig.json
+C:\Alejo\Programacion\C#\CursoDeCSharp\DataSetsYDataTables\bin\Debug\net6.0\DataSetsYDataTables.dll
+C:\Alejo\Programacion\C#\CursoDeCSharp\DataSetsYDataTables\bin\Debug\net6.0\DataSetsYDataTables.pdb
+C:\Alejo\Programacion\C#\CursoDeCSharp\DataSetsYDataTables\obj\Debug\net6.0\DataSetsYDataTables.csproj.AssemblyReference.cache
+C:\Alejo\Programacion\C#\CursoDeCSharp\DataSetsYDataTables\obj\Debug\net6.0\DataSetsYDataTables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alejo\Programacion\C#\CursoDeCSharp\DataSetsYDataTables\obj\Debug\net6.0\DataSetsYDataTables.AssemblyInfoInputs.cache
+C:\Alejo\Programacion\C#\CursoDeCSharp\DataSetsYDataTables\obj\Debug\net6.0\DataSetsYDataTables.AssemblyInfo.cs
+C:\Alejo\Programacion\C#\CursoDeCSharp\DataSetsYDataTables\obj\Debug\net6.0\DataSetsYDataTables.csproj.CoreCompileInputs.cache
+C:\Alejo\Programacion\C#\CursoDeCSharp\DataSetsYDataTables\obj\Debug\net6.0\DataSetsYDataTables.dll
+C:\Alejo\Programacion\C#\CursoDeCSharp\DataSetsYDataTables\obj\Debug\net6.0\refint\DataSetsYDataTables.dll
+C:\Alejo\Programacion\C#\CursoDeCSharp\DataSetsYDataTables\obj\Debug\net6.0\DataSetsYDataTables.pdb
+C:\Alejo\Programacion\C#\CursoDeCSharp\DataSetsYDataTables\obj\Debug\net6.0\DataSetsYDataTables.genruntimeconfig.cache
+C:\Alejo\Programacion\C#\CursoDeCSharp\DataSetsYDataTables\obj\Debug\net6.0\ref\DataSetsYDataTables.dll
