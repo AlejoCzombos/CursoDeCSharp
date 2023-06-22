@@ -1,0 +1,17 @@
+C:\Alejo\Programacion\C#\CursoDeCSharp\Juego de Memoria\bin\Debug\net6.0-windows\Juego de Memoria.exe
+C:\Alejo\Programacion\C#\CursoDeCSharp\Juego de Memoria\bin\Debug\net6.0-windows\Juego de Memoria.deps.json
+C:\Alejo\Programacion\C#\CursoDeCSharp\Juego de Memoria\bin\Debug\net6.0-windows\Juego de Memoria.runtimeconfig.json
+C:\Alejo\Programacion\C#\CursoDeCSharp\Juego de Memoria\bin\Debug\net6.0-windows\Juego de Memoria.dll
+C:\Alejo\Programacion\C#\CursoDeCSharp\Juego de Memoria\bin\Debug\net6.0-windows\Juego de Memoria.pdb
+C:\Alejo\Programacion\C#\CursoDeCSharp\Juego de Memoria\obj\Debug\net6.0-windows\Juego de Memoria.csproj.AssemblyReference.cache
+C:\Alejo\Programacion\C#\CursoDeCSharp\Juego de Memoria\obj\Debug\net6.0-windows\Juego_de_Memoria.Form1.resources
+C:\Alejo\Programacion\C#\CursoDeCSharp\Juego de Memoria\obj\Debug\net6.0-windows\Juego de Memoria.csproj.GenerateResource.cache
+C:\Alejo\Programacion\C#\CursoDeCSharp\Juego de Memoria\obj\Debug\net6.0-windows\Juego de Memoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alejo\Programacion\C#\CursoDeCSharp\Juego de Memoria\obj\Debug\net6.0-windows\Juego de Memoria.AssemblyInfoInputs.cache
+C:\Alejo\Programacion\C#\CursoDeCSharp\Juego de Memoria\obj\Debug\net6.0-windows\Juego de Memoria.AssemblyInfo.cs
+C:\Alejo\Programacion\C#\CursoDeCSharp\Juego de Memoria\obj\Debug\net6.0-windows\Juego de Memoria.csproj.CoreCompileInputs.cache
+C:\Alejo\Programacion\C#\CursoDeCSharp\Juego de Memoria\obj\Debug\net6.0-windows\Juego de Memoria.dll
+C:\Alejo\Programacion\C#\CursoDeCSharp\Juego de Memoria\obj\Debug\net6.0-windows\refint\Juego de Memoria.dll
+C:\Alejo\Programacion\C#\CursoDeCSharp\Juego de Memoria\obj\Debug\net6.0-windows\Juego de Memoria.pdb
+C:\Alejo\Programacion\C#\CursoDeCSharp\Juego de Memoria\obj\Debug\net6.0-windows\Juego de Memoria.genruntimeconfig.cache
+C:\Alejo\Programacion\C#\CursoDeCSharp\Juego de Memoria\obj\Debug\net6.0-windows\ref\Juego de Memoria.dll
